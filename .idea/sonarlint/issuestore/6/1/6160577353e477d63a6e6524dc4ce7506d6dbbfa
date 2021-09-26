@@ -1,0 +1,33 @@
+
+j
+java:S1450"TRemove the "mAuth" field and declare it as a local variable in the relevant methods.(ªĞ”’
+j
+java:S1450"TRemove the "mCity" field and declare it as a local variable in the relevant methods.(è®ã†
+p
+java:S1450 "URemove the "mConnu" field and declare it as a local variable in the relevant methods.(â²—ûÿÿÿÿ
+o
+java:S1450"TRemove the "mName" field and declare it as a local variable in the relevant methods.(›„ŒÌúÿÿÿÿ
+i
+java:S1450"SRemove the "mReg" field and declare it as a local variable in the relevant methods.(Ç¾Ùš
+r
+java:S1450"WRemove the "mStretch" field and declare it as a local variable in the relevant methods.(É¡½Àùÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(ùÇŞÕ
+V	java:S125R"<This block of commented-out lines of code should be removed.(ÈùŠ¿ÿÿÿÿÿ
+?
+java:S1068")Remove this unused "mAuth" private field.(ªĞ”’
+D
+java:S1068")Remove this unused "mName" private field.(›„ŒÌúÿÿÿÿ
+G
+java:S1068",Remove this unused "mStretch" private field.(É¡½Àùÿÿÿÿ
+?
+java:S1068")Remove this unused "mCity" private field.(è®ã†
+E
+java:S1068 "*Remove this unused "mConnu" private field.(â²—ûÿÿÿÿ
+k	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Š‰úÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¦Óï
+=
+java:S1604<"(Make this anonymous inner class a lambda(‹ƒÒ
+
+D
+java:S1604"(Make this anonymous inner class a lambda(ƒ‘ãüÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Šê¶Ëùÿÿÿÿ

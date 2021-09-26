@@ -1,0 +1,14 @@
+
+k
+java:S1450"URemove the "mLogin" field and declare it as a local variable in the relevant methods.(‡¼’ì
+i
+java:S1450"SRemove the "mReg" field and declare it as a local variable in the relevant methods.(Ç¾Ùš
+f	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¥Ü¢
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ô•†
+>
+java:S16045"(Make this anonymous inner class a lambda(“¹ö
+=
+java:S1604A"(Make this anonymous inner class a lambda(‹ƒÒ
+
+C
+java:S1604Q"(Make this anonymous inner class a lambda(·Ğ†µÿÿÿÿÿ
