@@ -20,9 +20,6 @@ public class Login_2_Activity extends AppCompatActivity {
 
     private Button mReg;
 
-
-
-
     private FirebaseAuth mAuth;
     private EditText mName;
     private EditText mMail;
@@ -33,15 +30,12 @@ public class Login_2_Activity extends AppCompatActivity {
 
     private FirebaseAuth auth;
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login2);
 
         mAuth = FirebaseAuth.getInstance();
-
 
 
         mName = findViewById(R.id.Name);
