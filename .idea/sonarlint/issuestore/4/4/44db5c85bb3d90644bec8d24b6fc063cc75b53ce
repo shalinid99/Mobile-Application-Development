@@ -1,14 +1,0 @@
-
-p
-java:S1450"URemove the "mDelet" field and declare it as a local variable in the relevant methods.(Ï¼Æ³ûÿÿÿÿ
-i
-java:S1450"SRemove the "mDet" field and declare it as a local variable in the relevant methods.(ÊÐáç
-j
-java:S1450"TRemove the "mOder" field and declare it as a local variable in the relevant methods.(®ÂàÉ
-=
-java:S1604)"(Make this anonymous inner class a lambda(é¥ð|
-C
-java:S16044"(Make this anonymous inner class a lambda(Œåô¶üÿÿÿÿ
-C
-java:S1604@"(Make this anonymous inner class a lambda(¤¸ë·üÿÿÿÿ
-a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ØÓK

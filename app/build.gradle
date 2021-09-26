@@ -7,7 +7,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.coffee_secrets"
+        applicationId "com.coffee_secretss"
         minSdk 21
         targetSdk 30
         versionCode 1
